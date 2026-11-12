@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "niuace-test-key-1",
+      "n": "uqKFa7F16mEmd2FhV6bnH61r2G9RAzv8-aSY8UhNI1xEzs0K6pReeHs9Hx0oFQyfEMY7mFKtBjtZk3HI0GN6JKFLobUjGcqjGSScfI5BSDy8oTgsoksnkytgYd8Xtjo2iueXh00MHLX7O7Sw4XPjjodF6U8EScRJNctBTHIZpmzzEsD4aJVwyUN0riOfj-0YpC6_lVsrAjxlkteosyWF7UIXJYJH6rCogXHEXFL4JpSKzaHpzGMsYlwViuUotPG3HZPw5-bi63CjXG46eR_fpVN-VcXIMO45TitvU5a2B22-Te0FWKVVRaB-x5jmAQP9vG5gpjqCijHMe25WPTqcmQ",
+      "e": "AQAB"
+    }
+  ]
+}
